@@ -1,3 +1,4 @@
+# The site is live here https://httpanimations.github.io/FYCLIVE/
 # FYC
 # Fuck you cox :) 
 # This is a live site you don't need to download anymore https://httpanimations.github.io/FYCLIVEindex.html
