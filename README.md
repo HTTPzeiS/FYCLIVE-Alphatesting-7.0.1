@@ -1,4 +1,5 @@
-#                    (| FYC |)
+#                    (| FYC Version 28|)
+
 # FYC is a website that allows you to get 
 # Apps | Vidoes | Games | Music | Movies
 # For 100% free with no ads at all 
