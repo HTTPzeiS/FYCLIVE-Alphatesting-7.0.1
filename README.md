@@ -1,4 +1,4 @@
-#                    (| FYC Version 35|)
+#                    (| FYC Version 36|)
 
 # FYC is a website that allows you to get 
 # Apps | Vidoes | Games | Music | Movies
