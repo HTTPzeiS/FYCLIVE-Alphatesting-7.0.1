@@ -9,12 +9,12 @@
 #
 #
 # Local download for extra safety:
-# Linux download: Frist open Terminal and type cd home Second git clone https://github.com/HttpAnimations/FYCLive
-# Mac Download: Frist open Terminal and type cd home Second git clone https://github.com/HttpAnimations/FYCLive
+# Linux download: Frist open Terminal and type cd home Second git clone https://github.com/HttpAnimations/FYC
+# Mac Download: Frist open Terminal and type cd home Second git clone https://github.com/HttpAnimations/FYC
 # Windows Download: Am going to be 100% honest I have no idea how to use windows and have never used it just linux but if you know how to use Windows message me on discord and show me how my discord is | VR Http// Animations#0523  
 #
 #
 #
 #
 # Online Version 
-# https://httpanimations.github.io/FYCLIVE/index.html
+# https://httpanimations.github.io/FYC/index.html
