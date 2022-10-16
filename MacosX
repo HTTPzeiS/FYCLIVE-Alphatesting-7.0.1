@@ -1,0 +1,12 @@
+CTRL+ALT+G --Mouse
+CTRL+ALF+F --Fullscreen
+
+mousescreen * width * hight --MouseLocater
+
+Fullscreen.data = keybind.keyboard then set.windows.size = width * hight then
+import time time.sleep({1,0},0) repeat = false if ran then revert
+
+Mouse.data = keybind.keyboard then set MouseLocater * Fullscreen: false then :true repeat = false if ran then revert
+
+
+
